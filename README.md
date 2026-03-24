@@ -4,6 +4,8 @@
 
 **Author:** Krupal Gohil &nbsp;|&nbsp; **Dataset:** PaySim — 6.3M Transactions &nbsp;|&nbsp; **Domain:** FinTech / RegTech
 
+**Live App:**  [https://financial-fraud-detection-krupalgohil.streamlit.app/](https://financial-fraud-detection-krupalgohil.streamlit.app/)
+
 ---
 
 ## Overview
