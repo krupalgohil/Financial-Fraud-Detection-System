@@ -229,10 +229,11 @@ SUSPICIOUS ACTIVITY REPORT
 
 A live interactive dashboard where compliance teams can enter any transaction and instantly receive a fraud score, risk factor breakdown, and downloadable SAR report.
 
+🔗 **Live App:**  
+https://financial-fraud-detection-system-krupal-gohil.streamlit.app/
+
 ```bash
 streamlit run app.py
-```
-
 ---
 
 ## How to Run
