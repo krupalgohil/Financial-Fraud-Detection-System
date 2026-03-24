@@ -1,4 +1,4 @@
-# AML Fraud Detection System
+# Financial Fraud Detection System
 
 ### End-to-End Anti-Money Laundering Intelligence Pipeline
 
@@ -307,5 +307,4 @@ If deployed at a bank processing 1 million transactions per day:
 ## References
 
 1. Lopez-Rojas, E.A. et al. (2016). *PaySim: A financial mobile money simulator for fraud detection.* EMSS 2016.
-2. Lundberg, S.M. & Lee, S.I. (2017). *A Unified Approach to Interpreting Model Predictions.* NeurIPS.
-3. Grinsztajn, L. et al. (2022). *Why tree-based models still outperform deep learning on tabular data.* NeurIPS.
+
