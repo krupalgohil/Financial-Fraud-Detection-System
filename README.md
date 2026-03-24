@@ -182,12 +182,6 @@ Banks and regulators require documented reasons for every fraud alert. SHAP assi
 
 The top features are `amount_to_balance`, `account_drained`, and `is_high_risk_type` — exactly matching EDA findings. The model learned the right patterns from the data.
 
-### Individual Transaction Explanation
-
-![SHAP Waterfall](Plots/SHAP_waterfall_plot.png)
-
-For each flagged transaction, the waterfall shows exactly which features pushed the fraud score up or down. `balance_change` and `amount_to_balance` each contributed +0.13 to the fraud score.
-
 ---
 
 ## SAR Report Generator
